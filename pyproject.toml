@@ -1,0 +1,9 @@
+[project]
+name = "wallpaper"
+version = "2025.1.25"
+description = "Bing Wallpaper downloader"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.32.3",
+]

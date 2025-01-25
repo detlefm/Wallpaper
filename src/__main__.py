@@ -104,5 +104,5 @@ def download_bing_wallpapers(
 # download_bing_wallpapers(locale='en-US', files=5, resolution='1920x1080')
 
 if __name__ == "__main__":
-    print("Downloading images... ",end='',flush=True)    
+    print("Searching for images... ")    
     print(f'found {download_bing_wallpapers()} images')
